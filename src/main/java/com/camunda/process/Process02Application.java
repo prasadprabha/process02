@@ -1,9 +1,9 @@
-package org.camunda.bpm.process;
+package com.camunda.process;
 
 import org.camunda.bpm.application.ProcessApplication;
 import org.camunda.bpm.application.impl.ServletProcessApplication;
 
-@ProcessApplication("Process 02 App")
+@ProcessApplication("Process2")
 public class Process02Application extends ServletProcessApplication {
 
 }

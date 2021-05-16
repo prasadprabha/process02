@@ -11,7 +11,7 @@
       <property name="isScanForProcessDefinitions">true</property>
 	  <property name="additionalResourceSuffixes">js</property>
 	  <property name="isDeployChangedOnly">false</property>
-    </properties>
+	</properties>
   </process-archive>
 
 </process-application>
